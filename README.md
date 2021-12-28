@@ -1,6 +1,6 @@
 ### Olá! Sou o Matheus Brasil 👋
 
-- 🔭 Estou trabalhando atualmente na Agência Reguladora de Serviços Púbicos Delegados do Paraná (AGEPAR)
+- 🔭 Estou estagiando atualmente na Agência Reguladora de Serviços Púbicos Delegados do Paraná (AGEPAR)
 - 🌱 Estou estudando python e R para análise de dados, enquanto realizo minha graduação
 
 <div align="center">
