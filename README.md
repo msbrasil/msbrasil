@@ -2,8 +2,7 @@
 
 - 🔭 Estou estagiando atualmente na Agência Reguladora de Serviços Púbicos Delegados do Paraná (AGEPAR)
 - 🌱 Estou estudando python e R para análise de dados, enquanto realizo minha graduação
-- 👨‍🔧 Projetos que realizei ou vou realizar para solucionar problemas durante o meu estágio serão postados aqui e melhor descritos no meu <a href="msbrasil.github.io target="blank">portfólio<\a>
-
+- 👨‍🔧 Projetos que realizei durante ou estágio ou faculdade serão detalhados no meu <a href="msbrasil.github.io" target="blank">portfólio
 <div align="center">
   <a href="https://github.com/msbrasil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msbrasil&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
