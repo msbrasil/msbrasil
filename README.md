@@ -1,6 +1,6 @@
 ### Olá! Sou o Matheus Brasil 👋
 
-- 🔭 Estou estagiando atualmente na Agência Reguladora de Serviços Púbicos Delegados do Paraná (AGEPAR)
+- 🔭 Estou estagiando atualmente no grupo Braza Holding, banco exclusivo de câmbio.
 - 🌱 Estou estudando python e R para análise de dados, enquanto realizo minha graduação
 - 👨‍🔧 Projetos que realizei durante ou estágio ou faculdade serão detalhados no meu <a href="msbrasil.github.io" target="blank">portfólio
 <div align="center">
