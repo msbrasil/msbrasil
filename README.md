@@ -1,33 +1,65 @@
-### Olá! Sou o Matheus Brasil 👋
+# Hi, I'm Matheus Brasil 👋 How you doin?
 
-- 🔭 Estou estagiando atualmente no grupo Braza Holding, banco exclusivo de câmbio.
-- 🌱 Estou estudando python e R para análise de dados, enquanto realizo minha graduação
-- 👨‍🔧 Projetos que realizei durante ou estágio ou faculdade serão detalhados no meu <a href="msbrasil.github.io" target="blank">portfólio
+<pre>
+      ___          ___          ___                    ___                    ___          ___                     ___     
+     /\__\        /\  \        /\__\                  /\__\                  /\  \        /\  \         ___       /\__\    
+    /:/  /       /::\  \      /:/ _/_                /:/  /                 /::\  \      /::\  \       /\  \     /::|  |   
+   /:/__/       /:/\:\  \    /:/ /\__\              /:/  /                 /:/\:\  \    /:/\:\  \      \:\  \   /:|:|  |   
+  /::\  \ ___  /:/  \:\  \  /:/ /:/ _/_            /:/  /  ___            /:/  \:\__\  /:/  \:\  \     /::\__\ /:/|:|  |__ 
+ /:/\:\  /\__\/:/__/ \:\__\/:/_/:/ /\__\          /:/__/  /\__\          /:/__/ \:|__|/:/__/ \:\__\ __/:/\/__//:/ |:| /\__\
+ \/__\:\/:/  /\:\  \ /:/  /\:\/:/ /:/  /          \:\  \ /:/  /          \:\  \ /:/  /\:\  \ /:/  //\/:/  /   \/__|:|/:/  /
+      \::/  /  \:\  /:/  /  \::/_/:/  /            \:\  /:/  /            \:\  /:/  /  \:\  /:/  / \::/__/        |:/:/  / 
+      /:/  /    \:\/:/  /    \:\/:/  /              \:\/:/  /              \:\/:/  /    \:\/:/  /   \:\__\        |::/  /  
+     /:/  /      \::/  /      \::/  /                \::/  /                \::/__/      \::/  /     \/__/        /:/  /   
+     \/__/        \/__/        \/__/                  \/__/                  ~~           \/__/                   \/__/
+</pre> 
+
+
+## About Me:
+
+- My <a href="https://msbrasil.github.io/" target="_blank">Portfolio</a>
+- My approach to development is grounded in solid data modeling and algorithmic thinking, allowing me to build reliable, high-performance pipelines and scalable data systems.
+- Bachelor in Economics.
+- Currently working as Data Analyt at Braza Bank.
+- Offline: Half-marathon runner · <a href="https://www.instagram.com/watheus_onfilm/">35mm film shooter </a> · <a href="https://letterboxd.com/watheusbr/">Cinephile</a>
+- Coworkers: Managing projects alongside 3 feline assistants:
+  <br>
+  <p align="center">
+    <img src="./assets/nenem.jpg" width="30%" alt="Neném - Senior Sleep Advisor" />
+    <img src="./assets/mila.jpg" width="30%" alt="Mila - Lead Keyboard Blocker" />
+    <img src="./assets/ravena.jpg" width="30%" alt="Ravena - Junior Chaos Intern" />
+  </p>
+
+
+## Skill Set:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Glue" />
+  <img src="https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" alt="AWS Redshift" />
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Athena" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+
+## Connect with me:
 <div align="center">
-  <a href="https://github.com/msbrasil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msbrasil&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msbrasil&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Math-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Math-rStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Math-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Math-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Math-Pandas" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:matheusbrasil122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheussbrasil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://api.whatsapp.com/send/?phone=5541984436321&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-   
-  
-  ![Snake animation](https://github.com/msbrasil/msbrasil/blob/output/github-contribution-grid-snake.svg)
-  
+    <a href="https://www.linkedin.com/in/matheussbrasil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:matheusbrasil122@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/watheus/" target="_blank"><img src="https://img.shields.io/badge/-leetcode-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href = "https://api.whatsapp.com/send/?phone=5541984436321&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </div>
