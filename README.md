@@ -25,9 +25,9 @@
 - Coworkers: Managing projects alongside 3 feline assistants:
   <br>
   <p align="center">
-    <img src="./nenem.jpg" width="30%" alt="Neném - Senior Sleep Advisor" />
-    <img src="./mila.jpg" width="30%" alt="Mila - Lead Keyboard Blocker" />
-    <img src="./ravena.jpg" width="30%" alt="Ravena - Junior Chaos Intern" />
+    <img src="./nenem.jpeg" width="30%" alt="Neném - Senior Sleep Advisor" />
+    <img src="./mila.jpeg" width="30%" alt="Mila - Lead Keyboard Blocker" />
+    <img src="./ravena.jpeg" width="30%" alt="Ravena - Junior Chaos Intern" />
   </p>
 
 
